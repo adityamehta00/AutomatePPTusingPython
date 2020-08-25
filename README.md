@@ -20,6 +20,11 @@ This following topics are discussed in detail [here](Instructions+documentation.
 - Understanding Main Script
 - Concluding remarks
 
+## Requirements 
+- Python
+- Microsoft Excel
+- Microsoft Power Point
+
 ## Acknowledgement 
 The idea was born from the mind of [Fauzan Zaid](https://in.linkedin.com/in/fauzanzaid). I genuinely acknowledge him for the idea and the initial code he had worked out. Without his contribution the project would have never taken any practical application. 
 </br>
