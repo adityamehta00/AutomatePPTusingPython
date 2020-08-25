@@ -29,4 +29,4 @@ This following topics are discussed in detail [here](Instructions+documentation.
 The idea was born from the mind of [Fauzan Zaid](https://in.linkedin.com/in/fauzanzaid). I genuinely acknowledge him for the idea and the initial code he had worked out. Without his contribution the project would have never taken any practical application. 
 </br>
 </br>
-For any help, please feel free to drop at adityamehta2015@gmail.com
+For any help, please feel free to drop a mail at adityamehta2015@gmail.com
