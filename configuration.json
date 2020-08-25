@@ -1,0 +1,12 @@
+{
+	"TemplatePPT" : "template.pptx",
+	"LayoutTestExcel" : "LayoutTest.xlsx",
+	"slideID_onlyName" : 257,  
+	"slideID_double" : 260,
+	"slideID_single" : 259,
+	"No_of_placeholders_onlyName" : 7,
+	"No_of_placeholders_double" : 32,
+	"No_of_placeholders_single" : 16,
+	"LayoutTestOutputExcel" : "LayoutTestOutput.xlsx"
+
+}
